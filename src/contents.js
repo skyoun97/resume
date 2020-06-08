@@ -1,12 +1,12 @@
 module.exports = {
   profile: {
-    name: '김우현',
-    description: 'Front-end developer',
-    dateOfBirth: '1996.11.05',
-    email: 'dngus242@gmail.com',
+    name: '전현성',
+    description: 'Front-end developer | Full-stack developer',
+    dateOfBirth: '1999.04.17',
+    email: 'hyeonss0417@gmail.com',
     links: [
-      {name: 'github', href: 'https://github.com/KimWooHyun'},
-      {name: 'portfolio', href: 'https://kimwoohyun.github.io/portfolio/'}
+      {name: 'github', href: 'https://github.com/skyoun97'},
+      {name: 'portfolio', href: 'https://www.notion.so/hyeonss/Hyeonseong-Jeon-89d4aa4039b748dfbcf08863cf0c88e8'}
     ]
   },
   contents: {
@@ -17,29 +17,29 @@ module.exports = {
         'contents': ['']
       },
       {
-        'date': 'Language',
-        'title': 'HTML5 / CSS3 / JavaScript / Typescript / Swift / Python',
+        'date': 'Frontend',
+        'title': 'React / Typescript / Hooks / HTML / CSS / JavaScript(ES8)',
         'contents': ['']
       },
       {
-        'date': 'Framework',
-        'title': 'Vue.js / Nuxt.js / React / Django / Flask',
+        'date': 'Backend',
+        'title': 'GraphQL / Express / Node.js / MySQL / Prisma / Heroku',
         'contents': ['']
       },
       {
         'date': 'Library',
-        'title': 'Webpack / Less / Scss / Axios / Alamofire',
+        'title': 'Webpack / Babel / Apollo / Axios / Passport',
         'contents': ['']
       },
       {
-        'date': 'Dependency Manager',
-        'title': 'cocoapods / npm / yarn / pip',
+        'date': 'Knowledgeable',
+        'title': 'Adobe XD / Git & Github / React Native / Amazon S3 / Heroku / Spring / TensorFlow / NLP / Word2Vec / ELMo',
         'contents': ['']
       }
     ],
     '개인 프로젝트': [
       {
-        'date': '2017.07 - 현재',
+        'date': '2019.07 - 현재',
         'title': 'vue-lunar-calendar',
         'contents': [
           '- Vue.js component library',
@@ -171,33 +171,45 @@ module.exports = {
     ],
     '학력 사항': [
       {
-        'date': '2016 - 현재',
-        'title': '한국방송통신대학교',
+        'date': '2018 - 현재',
+        'title': 'Yonsei University 연세대학교',
         'contents': ['컴퓨터과학과 재학중']
       },
       {
-        'date': '2012 - 2015',
-        'title': '미림여자정보과학고등학교 (미림 마이스터고)',
-        'contents': ['인터랙티브 미디어과 졸업']
+        'date': '2020.01 - 2020.06',
+        'title': 'Uppsala University',
+        'contents': ['스웨덴 교환학생']
+      },
+      {
+        'date': '2015 - 2017',
+        'title': '선린인터넷고등학교',
+        'contents': ['웹운영과 졸업']
+      },
+      {
+        'date': '2016',
+        'title': '국제 정보 올림피아드(IOI) 여름학교',
+        'contents': ['제 25기 교육생']
       }
     ]
   },
   summary: {
     '경력 요약': [
       {
-        'date': ['2018.04.23', '현재'],
-        'title': 'Spoqa (스포카)',
+        'date': ['2019.04.23', '2019.12'],
+        'title': '소프트웨어 마에스트로 제 10기',
         'contents': [
-          '주 - Front-end 개발',
-          '서브 - Swift, Android 개발',
+          '과학기술정보통신부에서 운영하는 소프트웨어 전문가 양성 교육과정',
+          '주 - Back-end 개발, Word2vec를 활용한 단어 추천 서비스 개발',
+          '서브 - Adobe XD로 UI/UX 디자인',
         ]
       },
       {
-        'date': ['2016.01.25', '2018.01.25'],
-        'title': 'ONE MOMENT (원모먼트)',
+        'date': ['2019.03.05', '2019.12.18'],
+        'title': '(주) 코놀 서브 개발자',
         'contents': [
-          '주 - Front-end 개발',
-          '서브 - Swift, Django 개발',
+          '국가근로장학으로 근무',
+          '주 - 유치원 업무관리 시스템 유지 및 관리 (Node.js, Express, ejs, MySQL)',
+          '서브 - 유치원 홈페이지 유지 및 관리 (Spring, Mysql)',
         ]
       },
       {
